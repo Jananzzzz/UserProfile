@@ -2,4 +2,4 @@
 
 Contribution is welcomed.
 
-Private contact at me bangzhubieren18@gmail.com.
+For private contact with me, at bangzhubieren18@gmail.com.

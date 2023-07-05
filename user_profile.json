@@ -1,0 +1,47 @@
+{
+    "basic_info": {
+        "identity": {
+            "name": {},
+            "id": {},
+            "location": {},
+            "household_register": {},
+            "residential_address": {}
+        },
+        "figure": {
+            "age": 32,
+            "gender": "male",
+            "height": 1.44,
+            "weight": 33,
+            "is_wear_glasses": 1,
+            "is_disability": 0
+        },
+        "family": {
+
+        }
+    },
+    "education": {
+        "primary_school": {},
+        "junior_high_school": {},
+        "senior_high_school": {},
+        "university": {},
+        "graduate": {},
+        "doctor": {},
+        "postdoctor": {}
+    },
+    "social": {
+        "phone": "123456789",
+        "mail": "bangzhubieren18@gmail.com ",
+        "qq": "",
+        "WeChat": ""
+
+    },
+    "appendix": {
+        "phone": "",
+        "pc": "",
+        "pc_os": "",
+        "car": "",
+        "bike": "",
+        "e-bike": ""
+
+    }
+}
